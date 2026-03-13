@@ -6706,5 +6706,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 755,
+    "name": "Brawl Simulator 3D",
+    "cover": "{COVER_URL}/755.png",
+    "url": "{HTML_URL}/755.html",
+    "author": "Fire Games, Supercell",
+    "authorLink": "https://yandex.com/games/developer/77286"
   }
 ]
