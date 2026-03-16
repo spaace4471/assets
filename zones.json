@@ -6798,9 +6798,14 @@
     "cover": "{COVER_URL}/764.png",
     "url": "{HTML_URL}/764.html",
     "author": "rend-pii",
-    "authorLink": "https://rend-pii.itch.io/five-nights-at-shreks-hotel-2",
-    "special": [
-      "port"
-    ]
+    "authorLink": "https://rend-pii.itch.io/five-nights-at-shreks-hotel-2"
+  },
+  {
+    "id": 765,
+    "name": "Scary Shawarma Kiosk: the ANOMALY",
+    "cover": "{COVER_URL}/765.png",
+    "url": "{HTML_URL}/765.html",
+    "author": "kharbor_ykt",
+    "authorLink": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY"
   }
 ]
