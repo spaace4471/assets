@@ -6823,5 +6823,13 @@
     "url": "{HTML_URL}/767.html",
     "author": "Beruke Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.BerukeGames.StickSlasher"
+  },
+  {
+    "id": 768,
+    "name": "Stickman Kombat 2D",
+    "cover": "{COVER_URL}/768.png",
+    "url": "{HTML_URL}/768.html",
+    "author": "GamePush",
+    "authorLink": "https://www.crazygames.com/game/stickman-kombat-2d"
   }
 ]
