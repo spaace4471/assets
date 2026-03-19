@@ -527,7 +527,7 @@
     "id": 64,
     "name": "Backrooms",
     "cover": "{COVER_URL}/64.png",
-    "url": "{HTML_URL}/64.html",
+    "url": "{HTML_URL}/64-fix.html",
     "author": "Esyverse",
     "authorLink": "https://esyverse.itch.io/"
   },
@@ -535,7 +535,7 @@
     "id": 65,
     "name": "Baldi's Basics",
     "cover": "{COVER_URL}/65.png",
-    "url": "{HTML_URL}/65.html",
+    "url": "{HTML_URL}/65-fix.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics"
   },
@@ -627,7 +627,7 @@
     "id": 75,
     "name": "Bloons TD 5",
     "cover": "{COVER_URL}/75.png",
-    "url": "{HTML_URL}/75.html",
+    "url": "{HTML_URL}/75-fix.html",
     "author": "Ninja Kiwi",
     "authorLink": "https://ninjakiwi.com",
     "special": [
@@ -638,7 +638,7 @@
     "id": 76,
     "name": "Bob The Robber 2",
     "cover": "{COVER_URL}/76.png",
-    "url": "{HTML_URL}/76.html",
+    "url": "{HTML_URL}/76-fix.html",
     "author": "Meow Beast",
     "authorLink": "https://www.newgrounds.com/portal/view/585767"
   },
@@ -971,7 +971,7 @@
     "id": 112,
     "name": "Wordle",
     "cover": "{COVER_URL}/112.png",
-    "url": "{HTML_URL}/112.html",
+    "url": "{HTML_URL}/112-fix.html",
     "author": "New York Times",
     "authorLink": "https://www.nytimes.com/games/wordle/index.html"
   },
