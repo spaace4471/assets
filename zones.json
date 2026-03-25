@@ -6873,5 +6873,24 @@
     "special": [
       "dos"
     ]
+  },
+  {
+    "id": 773,
+    "name": "Command & Conquer",
+    "cover": "{COVER_URL}/773.png",
+    "url": "{HTML_URL}/773.html",
+    "author": "Westwood Studios",
+    "authorLink": "https://www.ea.com/games/command-and-conquer",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Mountain Bike Racer",
+    "cover": "{COVER_URL}/774.png",
+    "url": "{HTML_URL}/774.html",
+    "author": "stefano1234",
+    "authorLink": "https://www.construct.net/en/free-online-games/mountain-bike-runner-20988/play"
   }
 ]
