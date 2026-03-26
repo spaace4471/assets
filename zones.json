@@ -6920,5 +6920,35 @@
     "url": "{HTML_URL}/777.html",
     "author": "tellusgames",
     "authorLink": "https://tellusgames.itch.io/outhold"
+  },
+  {
+    "id": 778,
+    "name": "Serial Experiments Lain",
+    "cover": "{COVER_URL}/778.png",
+    "url": "{HTML_URL}/778.html",
+    "author": "NBCUniversal Entertainment Japan, Pioneer Productions",
+    "authorLink": "https://laingame.net/"
+  },
+  {
+    "id": 779,
+    "name": "I Have No Mouth, and I Must Scream",
+    "cover": "{COVER_URL}/778.png",
+    "url": "{HTML_URL}/778.html",
+    "author": "Cyberdreams",
+    "authorLink": "https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/",
+    "special": [
+      "dos"
+    ]
+  },
+  {
+    "id": 780,
+    "name": "Thing-Thing Arena 3",
+    "cover": "{COVER_URL}/780.png",
+    "url": "{HTML_URL}/780.html",
+    "author": "Weasel",
+    "authorLink": "https://www.newgrounds.com/portal/view/485863",
+    "special": [
+      "flash"
+    ]
   }
 ]
