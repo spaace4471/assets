@@ -6900,5 +6900,25 @@
     "url": "{HTML_URL}/775.html",
     "author": "TeleSTOP",
     "authorLink": "https://bartbash.com/"
+  },
+  {
+    "id": 776,
+    "name": "Your Only Move Is HUSTLE",
+    "cover": "{COVER_URL}/776.png",
+    "url": "{HTML_URL}/776.html",
+    "author": "ivysly",
+    "authorLink": "https://ivysly.itch.io/your-only-move-is-hustle",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Outhold",
+    "cover": "{COVER_URL}/777.png",
+    "url": "{HTML_URL}/777.html",
+    "author": "tellusgames",
+    "authorLink": "https://tellusgames.itch.io/outhold"
   }
 ]
