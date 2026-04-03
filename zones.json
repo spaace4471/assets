@@ -6970,5 +6970,27 @@
       "emulator",
       "psx"
     ]
+  },
+  {
+    "id": 783,
+    "name": "Apes vs Helium",
+    "cover": "{COVER_URL}/783.png",
+    "url": "{HTML_URL}/783.html",
+    "author": "mdtowerz",
+    "authorLink": "https://mdtowerz.itch.io/apesvshelium",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Gabriel's Awesome Schoolhouse (GASH)",
+    "cover": "{COVER_URL}/784.png",
+    "url": "{HTML_URL}/784.html",
+    "author": "Gabriel115GJ",
+    "authorLink": "https://gamejolt.com/games/GASH/877557",
+    "special": [
+      "port"
+    ]
   }
 ]
