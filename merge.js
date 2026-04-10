@@ -1,6 +1,6 @@
 window.universallength = 0;
 window.universalloaded = 0;
- 
+  
 window.mergeFiles = function(fileParts) {
     return new Promise((resolve, reject) => {
         let buffers = [];
