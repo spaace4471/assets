@@ -7075,5 +7075,27 @@
     "url": "{HTML_URL}/792.html", 
     "author": "AzGames",
     "authorLink": "https://azgames.io/escape-road-3"
+  },
+  {
+    "id": 793,
+    "name": "Lethal Ape",
+    "cover": "{COVER_URL}/793.png",
+    "url": "{HTML_URL}/793.html", 
+    "author": "StellaDev",
+    "authorLink": "https://stella-dev.itch.io/lethal-ape",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Fear & Hunger 2: Termina",
+    "cover": "{COVER_URL}/794.png",
+    "url": "{HTML_URL}/794.html", 
+    "author": "Miro Haverinen, Happy Paintings",
+    "authorLink": "https://store.steampowered.com/app/2171440/Fear__Hunger_2_Termina/",
+    "special": [
+      "port"
+    ]
   }
 ]
